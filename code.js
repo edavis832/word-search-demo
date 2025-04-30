@@ -1,0 +1,1 @@
+// Placeholder for GDevelop exported code.js
